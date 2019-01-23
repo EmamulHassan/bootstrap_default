@@ -1,2 +1,2 @@
 # bootstrap_default
-practice day 10
+https://emamulhassan.github.io/bootstrap_default/
